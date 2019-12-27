@@ -6,3 +6,11 @@ C:\Users\jcmey\Desktop\Betabit\Clients\TravelCompanyBookings\OwnApi\Api.Core\obj
 C:\Users\jcmey\Desktop\Betabit\Clients\TravelCompanyBookings\OwnApi\Api.Core\obj\Debug\netcoreapp3.1\Api.Core.AssemblyInfo.cs
 C:\Users\jcmey\Desktop\Betabit\Clients\TravelCompanyBookings\OwnApi\Api.Core\obj\Debug\netcoreapp3.1\Api.Core.dll
 C:\Users\jcmey\Desktop\Betabit\Clients\TravelCompanyBookings\OwnApi\Api.Core\obj\Debug\netcoreapp3.1\Api.Core.pdb
+C:\Users\jcmey\Desktop\Betabit\Clients\TravelCompanyBookings\src\webapi_boilerplate\Api.Core\bin\Debug\netcoreapp3.1\Api.Core.deps.json
+C:\Users\jcmey\Desktop\Betabit\Clients\TravelCompanyBookings\src\webapi_boilerplate\Api.Core\bin\Debug\netcoreapp3.1\Api.Core.dll
+C:\Users\jcmey\Desktop\Betabit\Clients\TravelCompanyBookings\src\webapi_boilerplate\Api.Core\bin\Debug\netcoreapp3.1\Api.Core.pdb
+C:\Users\jcmey\Desktop\Betabit\Clients\TravelCompanyBookings\src\webapi_boilerplate\Api.Core\obj\Debug\netcoreapp3.1\Api.Core.csprojAssemblyReference.cache
+C:\Users\jcmey\Desktop\Betabit\Clients\TravelCompanyBookings\src\webapi_boilerplate\Api.Core\obj\Debug\netcoreapp3.1\Api.Core.AssemblyInfoInputs.cache
+C:\Users\jcmey\Desktop\Betabit\Clients\TravelCompanyBookings\src\webapi_boilerplate\Api.Core\obj\Debug\netcoreapp3.1\Api.Core.AssemblyInfo.cs
+C:\Users\jcmey\Desktop\Betabit\Clients\TravelCompanyBookings\src\webapi_boilerplate\Api.Core\obj\Debug\netcoreapp3.1\Api.Core.dll
+C:\Users\jcmey\Desktop\Betabit\Clients\TravelCompanyBookings\src\webapi_boilerplate\Api.Core\obj\Debug\netcoreapp3.1\Api.Core.pdb

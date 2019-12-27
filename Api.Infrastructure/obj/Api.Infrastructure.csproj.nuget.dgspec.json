@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jcmey\\Desktop\\Betabit\\Clients\\TravelCompanyBookings\\OwnApi\\Api.Infrastructure\\Api.Infrastructure.csproj": {}
+    "C:\\Users\\jcmey\\Desktop\\Betabit\\Clients\\TravelCompanyBookings\\src\\webapi_boilerplate\\Api.Infrastructure\\Api.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jcmey\\Desktop\\Betabit\\Clients\\TravelCompanyBookings\\OwnApi\\Api.Infrastructure\\Api.Infrastructure.csproj": {
+    "C:\\Users\\jcmey\\Desktop\\Betabit\\Clients\\TravelCompanyBookings\\src\\webapi_boilerplate\\Api.Infrastructure\\Api.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jcmey\\Desktop\\Betabit\\Clients\\TravelCompanyBookings\\OwnApi\\Api.Infrastructure\\Api.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\jcmey\\Desktop\\Betabit\\Clients\\TravelCompanyBookings\\src\\webapi_boilerplate\\Api.Infrastructure\\Api.Infrastructure.csproj",
         "projectName": "Api.Infrastructure",
-        "projectPath": "C:\\Users\\jcmey\\Desktop\\Betabit\\Clients\\TravelCompanyBookings\\OwnApi\\Api.Infrastructure\\Api.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\jcmey\\Desktop\\Betabit\\Clients\\TravelCompanyBookings\\src\\webapi_boilerplate\\Api.Infrastructure\\Api.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\jcmey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jcmey\\Desktop\\Betabit\\Clients\\TravelCompanyBookings\\OwnApi\\Api.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\jcmey\\Desktop\\Betabit\\Clients\\TravelCompanyBookings\\src\\webapi_boilerplate\\Api.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -46,6 +46,10 @@
             "Autofac": {
               "target": "Package",
               "version": "[4.9.4, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",

@@ -1,15 +1,13 @@
-﻿using Api.Infrastructure.Entities;
-using Microsoft.EntityFrameworkCore;
-using Api.Infrastructure;
-using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
+using Api.Infrastructure.Data.Entities;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 namespace Api.Infrastructure.SqlContext
 {
-    public class SqlDbContext : DbContext
+    public class SqlDbContext : IdentityDbContext<UserDto>
     {
         public SqlDbContext(DbContextOptions<SqlDbContext> options) : base(options) { }
 
@@ -24,11 +22,8 @@ namespace Api.Infrastructure.SqlContext
                 FirstName = "Administrator",
                 LastName = "Developer",
                 Email = "test@test.com",
-                Password = "password",
-                Username = "Admin",
                 DateCreated = DateTime.Now,
-                DateUpdated = DateTime.Now,
-                Id = new Guid("e4b25385-ea86-4d77-acb5-a6b55d097985")
+                DateUpdated = DateTime.Now
             });;
 
             base.OnModelCreating(modelBuilder);

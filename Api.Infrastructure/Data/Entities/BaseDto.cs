@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 
-namespace Api.Infrastructure.Entities
+namespace Api.Infrastructure.Data.Entities
 {
     public abstract class BaseDto
     {
