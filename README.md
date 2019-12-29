@@ -7,7 +7,7 @@ I really enjoyed this article on clean architecture from https://fullstackmark.c
   - Swagger
   - Autofac
   - AutoMapper
-  - Entity Framework
+  - Entity Framework (SQL Server)
 
 # Installation
   - Update SQL Db connection string
