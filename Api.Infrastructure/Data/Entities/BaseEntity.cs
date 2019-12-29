@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Api.Infrastructure.Data.Entities
 {
-    public abstract class BaseDto
+    public abstract class BaseEntity
     {
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         [Key]

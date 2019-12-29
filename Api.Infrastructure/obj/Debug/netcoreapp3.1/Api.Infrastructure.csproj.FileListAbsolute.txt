@@ -18,3 +18,6 @@ C:\Users\jcmey\Desktop\Betabit\Clients\TravelCompanyBookings\src\webapi_boilerpl
 C:\Users\jcmey\Desktop\Betabit\Clients\TravelCompanyBookings\src\webapi_boilerplate\Api.Infrastructure\obj\Debug\netcoreapp3.1\Api.Infrastructure.AssemblyInfo.cs
 C:\Users\jcmey\Desktop\Betabit\Clients\TravelCompanyBookings\src\webapi_boilerplate\Api.Infrastructure\obj\Debug\netcoreapp3.1\Api.Infrastructure.dll
 C:\Users\jcmey\Desktop\Betabit\Clients\TravelCompanyBookings\src\webapi_boilerplate\Api.Infrastructure\obj\Debug\netcoreapp3.1\Api.Infrastructure.pdb
+C:\Users\jcmey\Desktop\Betabit\Clients\TravelCompanyBookings\src\webapi_boilerplate\Api.Infrastructure\bin\Debug\netcoreapp3.1\Api.Core.dll
+C:\Users\jcmey\Desktop\Betabit\Clients\TravelCompanyBookings\src\webapi_boilerplate\Api.Infrastructure\bin\Debug\netcoreapp3.1\Api.Core.pdb
+C:\Users\jcmey\Desktop\Betabit\Clients\TravelCompanyBookings\src\webapi_boilerplate\Api.Infrastructure\obj\Debug\netcoreapp3.1\Api.Infrastructure.csproj.CopyComplete

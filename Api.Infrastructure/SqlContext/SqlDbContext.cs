@@ -7,24 +7,19 @@ using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 namespace Api.Infrastructure.SqlContext
 {
-    public class SqlDbContext : IdentityDbContext<UserDto>
+    public class SqlDbContext : IdentityDbContext<UserEntity>
     {
         public SqlDbContext(DbContextOptions<SqlDbContext> options) : base(options) { }
 
-        public DbSet<UserDto> Users { get; set; }
+        public DbSet<UserEntity> Users { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.HasDefaultSchema(schema: DbGlobals.SchemaName);
 
-            modelBuilder.Entity<UserDto>().HasData(new UserDto
-            {
-                FirstName = "Administrator",
-                LastName = "Developer",
-                Email = "test@test.com",
-                DateCreated = DateTime.Now,
-                DateUpdated = DateTime.Now
-            });;
+            modelBuilder.Entity<UserEntity>()
+                .Property(e => e.Id)
+                .ValueGeneratedOnAdd();
 
             base.OnModelCreating(modelBuilder);
         }
@@ -43,14 +38,14 @@ namespace Api.Infrastructure.SqlContext
 
         private void AddAuditInfo()
         {
-            var entries = ChangeTracker.Entries().Where(x => x.Entity is BaseDto && (x.State == EntityState.Added || x.State == EntityState.Modified));
+            var entries = ChangeTracker.Entries().Where(x => x.Entity is BaseEntity && (x.State == EntityState.Added || x.State == EntityState.Modified));
             foreach (var entry in entries)
             {
                 if (entry.State == EntityState.Added)
                 {
-                    ((BaseDto)entry.Entity).DateCreated = DateTime.UtcNow;
+                    ((BaseEntity)entry.Entity).DateCreated = DateTime.UtcNow;
                 }
-                ((BaseDto)entry.Entity).DateUpdated = DateTime.UtcNow;
+                ((BaseEntity)entry.Entity).DateUpdated = DateTime.UtcNow;
             }
         }
     }

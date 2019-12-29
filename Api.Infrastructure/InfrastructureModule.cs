@@ -1,7 +1,8 @@
-﻿using Autofac;
-using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using Api.Core.Interfaces.Repositories;
+using Api.Core.Interfaces.Services;
+using Api.Infrastructure.Auth;
+using Api.Infrastructure.Repositories;
+using Autofac;
 
 namespace Api.Infrastructure
 {
@@ -9,8 +10,8 @@ namespace Api.Infrastructure
     {
         protected override void Load(ContainerBuilder builder)
         {
-            //builder.RegisterType<UserRepository>().As<IUserRepository>().InstancePerLifetimeScope();
-            //builder.RegisterType<JwtFactory>().As<IJwtFactory>().SingleInstance();
+            builder.RegisterType<UserRepository>().As<IUserRepository>().InstancePerLifetimeScope();
+            builder.RegisterType<JwtFactory>().As<IJwtFactory>().SingleInstance();
         }
     }
 }

@@ -3,7 +3,7 @@ using System;
 
 namespace Api.Infrastructure.Data.Entities
 {
-    public class UserDto : IdentityUser
+    public class UserEntity : IdentityUser
     {
         public string FirstName { get; set; }
 
