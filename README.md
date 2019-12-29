@@ -8,3 +8,7 @@ I really enjoyed this article on clean architecture from https://fullstackmark.c
   - Autofac
   - AutoMapper
   - Entity Framework
+
+# Installation
+  - Update SQL Db connection string
+  - Run Update-Database
