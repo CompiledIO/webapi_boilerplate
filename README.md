@@ -1,9 +1,4 @@
-# .Net Core 3.1 Web API boilerplate (Not yet 100% complete)
+# .Net Core 3.1 Web API boilerplate 
 
-Clean API with the basics setup to speed up development of your next API project.
-
-Contains the following technolgies
-
-  - Swagger
-  - EF Core
-  - AutoFac
+I really enjoy this clean architecture from https://fullstackmark.com/post/18/building-aspnet-core-web-apis-with-clean-architecture .
+I have upgraded it to run on .Net Core 3.1
