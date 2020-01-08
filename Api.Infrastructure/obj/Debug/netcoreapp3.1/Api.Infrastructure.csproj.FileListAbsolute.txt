@@ -21,3 +21,16 @@ C:\Users\jcmey\Desktop\Betabit\Clients\TravelCompanyBookings\src\webapi_boilerpl
 C:\Users\jcmey\Desktop\Betabit\Clients\TravelCompanyBookings\src\webapi_boilerplate\Api.Infrastructure\bin\Debug\netcoreapp3.1\Api.Core.dll
 C:\Users\jcmey\Desktop\Betabit\Clients\TravelCompanyBookings\src\webapi_boilerplate\Api.Infrastructure\bin\Debug\netcoreapp3.1\Api.Core.pdb
 C:\Users\jcmey\Desktop\Betabit\Clients\TravelCompanyBookings\src\webapi_boilerplate\Api.Infrastructure\obj\Debug\netcoreapp3.1\Api.Infrastructure.csproj.CopyComplete
+C:\Users\jcmey\Desktop\JMeyer - Software\Clients\webapi_boilerplate\webapi_boilerplate\Api.Infrastructure\bin\Debug\netcoreapp3.1\Api.Infrastructure.deps.json
+C:\Users\jcmey\Desktop\JMeyer - Software\Clients\webapi_boilerplate\webapi_boilerplate\Api.Infrastructure\bin\Debug\netcoreapp3.1\Api.Infrastructure.runtimeconfig.json
+C:\Users\jcmey\Desktop\JMeyer - Software\Clients\webapi_boilerplate\webapi_boilerplate\Api.Infrastructure\bin\Debug\netcoreapp3.1\Api.Infrastructure.runtimeconfig.dev.json
+C:\Users\jcmey\Desktop\JMeyer - Software\Clients\webapi_boilerplate\webapi_boilerplate\Api.Infrastructure\bin\Debug\netcoreapp3.1\Api.Infrastructure.dll
+C:\Users\jcmey\Desktop\JMeyer - Software\Clients\webapi_boilerplate\webapi_boilerplate\Api.Infrastructure\bin\Debug\netcoreapp3.1\Api.Infrastructure.pdb
+C:\Users\jcmey\Desktop\JMeyer - Software\Clients\webapi_boilerplate\webapi_boilerplate\Api.Infrastructure\bin\Debug\netcoreapp3.1\Api.Core.dll
+C:\Users\jcmey\Desktop\JMeyer - Software\Clients\webapi_boilerplate\webapi_boilerplate\Api.Infrastructure\bin\Debug\netcoreapp3.1\Api.Core.pdb
+C:\Users\jcmey\Desktop\JMeyer - Software\Clients\webapi_boilerplate\webapi_boilerplate\Api.Infrastructure\obj\Debug\netcoreapp3.1\Api.Infrastructure.csprojAssemblyReference.cache
+C:\Users\jcmey\Desktop\JMeyer - Software\Clients\webapi_boilerplate\webapi_boilerplate\Api.Infrastructure\obj\Debug\netcoreapp3.1\Api.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jcmey\Desktop\JMeyer - Software\Clients\webapi_boilerplate\webapi_boilerplate\Api.Infrastructure\obj\Debug\netcoreapp3.1\Api.Infrastructure.AssemblyInfo.cs
+C:\Users\jcmey\Desktop\JMeyer - Software\Clients\webapi_boilerplate\webapi_boilerplate\Api.Infrastructure\obj\Debug\netcoreapp3.1\Api.Infrastructure.csproj.CopyComplete
+C:\Users\jcmey\Desktop\JMeyer - Software\Clients\webapi_boilerplate\webapi_boilerplate\Api.Infrastructure\obj\Debug\netcoreapp3.1\Api.Infrastructure.dll
+C:\Users\jcmey\Desktop\JMeyer - Software\Clients\webapi_boilerplate\webapi_boilerplate\Api.Infrastructure\obj\Debug\netcoreapp3.1\Api.Infrastructure.pdb

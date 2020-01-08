@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jcmey\\Desktop\\Betabit\\Clients\\TravelCompanyBookings\\src\\webapi_boilerplate\\Api.Core\\Api.Core.csproj": {}
+    "C:\\Users\\jcmey\\Desktop\\JMeyer - Software\\Clients\\webapi_boilerplate\\webapi_boilerplate\\Api.Core\\Api.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jcmey\\Desktop\\Betabit\\Clients\\TravelCompanyBookings\\src\\webapi_boilerplate\\Api.Core\\Api.Core.csproj": {
+    "C:\\Users\\jcmey\\Desktop\\JMeyer - Software\\Clients\\webapi_boilerplate\\webapi_boilerplate\\Api.Core\\Api.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jcmey\\Desktop\\Betabit\\Clients\\TravelCompanyBookings\\src\\webapi_boilerplate\\Api.Core\\Api.Core.csproj",
+        "projectUniqueName": "C:\\Users\\jcmey\\Desktop\\JMeyer - Software\\Clients\\webapi_boilerplate\\webapi_boilerplate\\Api.Core\\Api.Core.csproj",
         "projectName": "Api.Core",
-        "projectPath": "C:\\Users\\jcmey\\Desktop\\Betabit\\Clients\\TravelCompanyBookings\\src\\webapi_boilerplate\\Api.Core\\Api.Core.csproj",
+        "projectPath": "C:\\Users\\jcmey\\Desktop\\JMeyer - Software\\Clients\\webapi_boilerplate\\webapi_boilerplate\\Api.Core\\Api.Core.csproj",
         "packagesPath": "C:\\Users\\jcmey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jcmey\\Desktop\\Betabit\\Clients\\TravelCompanyBookings\\src\\webapi_boilerplate\\Api.Core\\obj\\",
+        "outputPath": "C:\\Users\\jcmey\\Desktop\\JMeyer - Software\\Clients\\webapi_boilerplate\\webapi_boilerplate\\Api.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
