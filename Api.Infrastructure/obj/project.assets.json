@@ -5814,11 +5814,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jcmey\\Desktop\\Betabit\\Clients\\TravelCompanyBookings\\src\\webapi_boilerplate\\Api.Infrastructure\\Api.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\jcmey\\Desktop\\JMeyer - Software\\Clients\\webapi_boilerplate\\webapi_boilerplate\\Api.Infrastructure\\Api.Infrastructure.csproj",
       "projectName": "Api.Infrastructure",
-      "projectPath": "C:\\Users\\jcmey\\Desktop\\Betabit\\Clients\\TravelCompanyBookings\\src\\webapi_boilerplate\\Api.Infrastructure\\Api.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\jcmey\\Desktop\\JMeyer - Software\\Clients\\webapi_boilerplate\\webapi_boilerplate\\Api.Infrastructure\\Api.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\jcmey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jcmey\\Desktop\\Betabit\\Clients\\TravelCompanyBookings\\src\\webapi_boilerplate\\Api.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\jcmey\\Desktop\\JMeyer - Software\\Clients\\webapi_boilerplate\\webapi_boilerplate\\Api.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5839,8 +5839,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\jcmey\\Desktop\\Betabit\\Clients\\TravelCompanyBookings\\src\\webapi_boilerplate\\Api.Core\\Api.Core.csproj": {
-              "projectPath": "C:\\Users\\jcmey\\Desktop\\Betabit\\Clients\\TravelCompanyBookings\\src\\webapi_boilerplate\\Api.Core\\Api.Core.csproj"
+            "C:\\Users\\jcmey\\Desktop\\JMeyer - Software\\Clients\\webapi_boilerplate\\webapi_boilerplate\\Api.Core\\Api.Core.csproj": {
+              "projectPath": "C:\\Users\\jcmey\\Desktop\\JMeyer - Software\\Clients\\webapi_boilerplate\\webapi_boilerplate\\Api.Core\\Api.Core.csproj"
             }
           }
         }
